@@ -1,3 +1,0 @@
-if(num ===100){
-    console.log('esse numero é 100')
-}

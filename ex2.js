@@ -3,4 +3,4 @@ let b = 5
 
 console.log("soma",a + b)
 console.log("substituição", a-b)
-console.log("multiplicação)
+console.log("multiplicação")
